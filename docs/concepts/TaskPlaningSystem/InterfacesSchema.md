@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart RL
 
 subgraph IPlatform["Платформа IPlatform. Один сервер"]
     IApp_Service["IService <br> Рабочий сервис сервера или даже другого сервера"]
