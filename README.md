@@ -1,3 +1,7 @@
 # StoragePlatform
 
-An intelligent, extensible data storage platform that combines high-performance storage, intelligent data processing, semantic search, profiling, and AI-driven optimization into a unified system.
+Интеллектуальная, расширяемая платформа хранения данных, которая объединяет высокопроизводительное хранилище, интеллектуальную обработку данных, семантический поиск, профилирование и оптимизацию с помощью искусственного интеллекта в единую систему.
+
+## Архитектура
+
+Проект основан на принципах чистой архитектуры с разделением на слои Abstractions, AI, Apps, Contracts, Core (Domain), Infrastructure. Подробнее в [Architecture.md](Architecture.md)
